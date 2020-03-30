@@ -1,5 +1,5 @@
 # Ironhack-Module-2-Project---Tableau
-Ironhack second project
+Second Ironhack project
 
 
 **Learning objective:** Create a Tableau story with some dashboards about a selected Kaggle dataset and get some hands on experience on data visualization tools.
